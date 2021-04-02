@@ -8,8 +8,8 @@ Menggunakan Login Cookies dan token ko
   pkg update && pkg upgrade
   pkg install python git
   pip install requests bs4 futures
-  git clone https://github.com/Rizal-XD/crack-3m
-  cd $HOME/crack-3m
+  git clone https://github.com/4Crack-FB-2.0/
+  cd $HOME/4Crack-FB-2.0
   python run.py
  ```
 #### Fitur:
